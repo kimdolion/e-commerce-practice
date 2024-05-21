@@ -1,5 +1,5 @@
-import { Box, Typography } from "@mui/material";
-import Image from "next/image";
+import { Box, Typography } from '@mui/material'
+import Image from 'next/image'
 
 export default function Home() {
   return (
@@ -9,5 +9,5 @@ export default function Home() {
         Testing material-ui box and typography
       </Box>
     </main>
-  );
+  )
 }
