@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+[Using Web Dev Simplified's E-commerce Fullstack App Youtube Tutorial](https://youtu.be/iqrgggs0Qk0?si=zHCqm-OEKNLT3t32)
+
 ## Getting Started
 
 First, run the development server:
